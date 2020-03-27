@@ -1,0 +1,25 @@
+{
+  "name": "team-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icek567/Team-Maker.git"
+  },
+  "author": "sergio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icek567/Team-Maker/issues"
+  },
+  "homepage": "https://github.com/icek567/Team-Maker#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
